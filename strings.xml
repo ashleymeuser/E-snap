@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">E-snap</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_challenge">NewChallenge</string>
+
+
+    <!--Transportation tips-->
+
+
+    <string name="t_tip1">Plan out your meals at the start of the week so you can reduce your trips food shopping.</string>
+    <string name="t_tip2">Carpool to work, school, and events with friends.</string>
+    <string name="t_tip3">Look up the public transit in your city and state. You will help the environment AND save on gas and parking!</string>
+    <string name="t_tip4">Carpool to work, school, and events with friends.</string>
+    <string name="t_tip5">Tempted to turn up the AC or heat in the car? Try rolling down your windows (or bringing gloves).</string>
+    <string name="t_tip6">Inspect your car tire pressure and inflate them to the recommended pressure to reduce energy use.</string>
+    <string name="t_tip7">Going out to dinner or ice cream? Try biking there to really earn your meal!</string>
+
+    <string-array name="trans_array">
+        <item>@string/t_tip1</item>
+        <item>@string/t_tip2</item>
+        <item>@string/t_tip3</item>
+        <item>@string/t_tip4</item>
+        <item>@string/t_tip5</item>
+        <item>@string/t_tip6</item>
+        <item>@string/t_tip7</item>
+    </string-array>
+    <string name="title_activity_accepted_challenge">AcceptedChallenge</string>
+    <string name="title_activity_cooling">Cooling</string>
+    <string name="title_activity_food">Food</string>
+    <string name="title_activity_favorites">Favorites</string>
+
+    <string name="h_tip1">Set your favorite pair of cozy socks by the door, and throw them on when you first return home, as feet retain little heat on their own.</string>
+    <string name="h_tip2">Getting ready to catch some zzz\'s? Take a minute to draw the blinds, which act like a blanket for your house.</string>
+    <string name="h_tip3">Grab a cup of cocoa or cinnamon tea, turn on some Nat King Cole, and enjoy some good company and winter spirit tonight! A gas stove is actually the most efficient way to boil the water, and electric kettles are good too.</string>
+    <string name="h_tip4">Spontaneous week-end getaway? Sounds dope. Adjust the thermostat to 55 deg F on your way out the door.</string>
+    <string name="h_tip5">We humans sleep better at temperatures between 61 and 65 deg F. Either manually or set thermostat to automatically reduce temperatures as you wind down to bed.</string>
+    <string name="h_tip6">Beanies are a worthy investment.</string>
+    <string name="h_tip7"> If radiators are located near cold outside walls, place a sheet of
+aluminum foil between the radiator and the wall to reflect heat
+back into the room</string>
+    <string name="h_tip8">The warmest air in a room will rise to the ceiling. Turning a ceiling fan on at low speeds will actually make the air feel warmer without any additional heating.</string>
+
+    <string-array name="heat_array">
+        <item>@string/h_tip1</item>
+        <item>@string/h_tip2</item>
+        <item>@string/h_tip3</item>
+        <item>@string/h_tip4</item>
+        <item>@string/h_tip5</item>
+        <item>@string/h_tip6</item>
+        <item>@string/h_tip7</item>
+        <item>@string/h_tip8</item>
+    </string-array>
+
+    <string name="c_tip1">If using window units, install your AC in a shady location. This will make you cool and efficient. Who doesn\'t want that?</string>
+    <string name="c_tip2">Buy an easy-to-drink, spill-proof water bottle and keep it filled with iced water. One 24oz bottle of ice water will instantly provide relief from the summer heat.</string>
+    <string name="c_tip3">Are you a guy? Well us women actually prefer room temperatures of about 5 deg F warmer, so turn down the AC if women are visiting. Thanks from all of us.</string>
+    <string name="c_tip4">Take a cool shower in the morning. This has been shown to help wake you up when caffeine is out of reach. Saving of cooling and water heating bills too? Cool stuff.</string>
+    <string name="c_tip5">Operate your stove, oven, dishwasher and clothes dryer in the
+morning or evening when it\’s cooler outside. They add extra
+heat to your home and make your air conditioner work harder</string>
+    <string name="c_tip6">Hitting the road? Driving with the windows down in place of air conditioning when below 40 mph can bring in big energy savings.</string>
+    <string name="c_tip7"> Set the air conditioning thermostat at 78 degrees during the
+day when home and higher when away</string>
+
+    <string-array name="cool_array">
+        <item>@string/c_tip1</item>
+        <item>@string/c_tip2</item>
+        <item>@string/c_tip3</item>
+        <item>@string/c_tip4</item>
+        <item>@string/c_tip5</item>
+        <item>@string/c_tip6</item>
+        <item>@string/c_tip7</item>
+    </string-array>
+
+
+</resources>

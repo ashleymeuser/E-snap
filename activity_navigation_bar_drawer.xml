@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Challenges">
+        <menu>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_current"
+            android:icon="@drawable/ic_menu_curr"
+            android:title="Current Challenge" />
+        <item
+            android:id="@+id/nav_past"
+            android:icon="@drawable/ic_menu_past"
+            android:title="Past Challenges" />
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_menu_new"
+            android:title="New Challenge" />
+    </group>
+        </menu>
+
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_fave"
+                android:icon="@drawable/ic_menu_fave"
+                android:title="Favorites" />
+            <item
+                android:id="@+id/nav_his"
+                android:icon="@drawable/ic_menu_his"
+                android:title="History" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="About Me" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_buds"
+                android:icon="@drawable/ic_menu_buds"
+                android:title="My Buds" />
+            <item
+                android:id="@+id/nav_findBud"
+                android:icon="@drawable/ic_menu_findbud"
+                android:title="Find A Bud" />
+            <item
+                android:id="@+id/nav_local"
+                android:icon="@drawable/ic_menu_local"
+                android:title="Local Buds" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

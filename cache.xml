@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_5dd0adfd7bbdfc0234ec3797f3e7b4cfa8946484/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_65e4095ea00ede3a7acc19371544cbb18f2d09ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_2ed9ce5146fed5b8a8a15ab4a0e7064f645370eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_8655a11e988aafb558a4aaa741c7a5ebd9a047d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_21b463b563b5008039444ea9c7625317de34314c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e97be9c92dd8bd28c5a497d77a675fdbd44af3e">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bcd7e40695c375acedbaca140df0e4638bcdfc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_2866c97bd73e5c1c748b6e60030c4450161ad79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ad708adbe06afa5a28cd6935cf2398c77dda64e">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9b0bb97846b59ea5a9bb9ba0bf8f5be564a0611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_2725c2d4971d9310f7082339f749423923d5a138/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2f21df886ec300bbe5a7b04b04042acc5e269fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_72aa790bc83448716666333018dab56b67512af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7ca5746aede1694976a7f6b3a5f4f77dd1e59709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_5dc1c74e97ed2cfb678b7082e44c9659b3a0b418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1f3e5677b5897b2eb03f84602109fd36a8530643/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_836b22982f6cac47a319082376dd75ac87624617/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_86b73dabe4e8fd2bbd17af72f87f3573e4d81c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_a574a8fb9586e9a4d1331786651b9657adb4864a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c3356eda57ca7fd14f22075bac1d157d270b98f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_317f119da28f191d823f36ef1a3cf7c20cdec290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_d2821aa03ecaa30d4ce6b6ed48bb0ab9f0686241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_23769e6dd66c3a4896e4081509b3519471764f58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0fbe141bd988eea7ce4ac037d3a4ac6b4ac3df10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/cayanian/AndroidProjects/E-snap2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_111e8c19c92fe7df61e1b9619e0ddaa23a727c09/classes.dex" />
+    </item>
+
+</items>
